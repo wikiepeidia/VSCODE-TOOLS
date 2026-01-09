@@ -12,7 +12,7 @@
     }
   ]
 }
-//git unignore 
+//git unignore  command for windows git bash
 // 
 // git config --global alias.unignore '!git ls-files -i -c --exclude-standard | xargs -r git rm -r --cached'
 //git unignore
