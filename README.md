@@ -15,7 +15,6 @@
 
 ## VSCODE git unignore for git projects
 
-- A git unignore task file to unignore some useful files that are usually ignored by default in VSCODE git projects.
-- useful when you accidentally push gabage to github and you wanna unignore it asap
+- A git unignore task file to unignore some useful files that  when you accidentally push gabage to github and you wanna unignore it asap
 - to run simply do RUn task on vscode or run a command written in task.json to get the alias `git unignore` command
 - currently optimize for Windows git bash. Linux need tweaks
