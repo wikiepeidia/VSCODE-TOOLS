@@ -19,5 +19,5 @@ echo ❌ MSVC tools not found.
 exit /b 1
 
 :FOUND
-code .
+code
 exit
