@@ -22,5 +22,6 @@ exit /b 1
 
 :FOUND
 echo  MSVC environment loaded.
-code .
+code
 exit
+
